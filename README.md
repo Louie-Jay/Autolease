@@ -1,6 +1,6 @@
 # autolease
 
-A new Flutter project.
+A car rental app in Flutter
 
 ## Getting Started
 
